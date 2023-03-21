@@ -31,18 +31,18 @@ A stack supports the following basic operations:
 
 ## A queue supports the following basic operations:
 
-    -enqueue(item): Adds an element to the back of the queue.
-    -dequeue(): Removes and returns the element at the front of the queue.
-    -peek(): Returns the element at the front of the queue without removing it.
-    -isEmpty(): Returns a boolean indicating whether the queue is empty.
+    *enqueue(item): Adds an element to the back of the queue.
+    *dequeue(): Removes and returns the element at the front of the queue.
+    *peek(): Returns the element at the front of the queue without removing it.
+    *isEmpty(): Returns a boolean indicating whether the queue is empty.
 
 ## Common Use Cases
 
 ## Queues are commonly used for the following applications:
 
-    -Task scheduling
-    -Job processing
-    -Breadth-first search
+    *Task scheduling
+    *Job processing
+    *Breadth-first search
     
 ## Conclusion
 Stacks and queues are fundamental data structures used in computer science for managing collections of elements. A stack is a LIFO data structure, while a queue is a FIFO data structure. Both stacks and queues support basic operations such as push/enqueue, pop/dequeue, peek, and isEmpty. Stacks and queues can be implemented using arrays or linked lists, depending on the requirements of the application.
