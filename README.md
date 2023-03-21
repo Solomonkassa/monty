@@ -51,5 +51,5 @@ Stacks and queues are fundamental data structures used in computer science for m
 This project was created by:
 
 - [Solomon Kassa](https://github.com/Solomonkassa)
-- [Nathan Hailu](https://github.com/)
+- [Nathan Hailu](https://github.com/Nathanage3)
 
