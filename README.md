@@ -46,3 +46,10 @@ A stack supports the following basic operations:
     
 ## Conclusion
 Stacks and queues are fundamental data structures used in computer science for managing collections of elements. A stack is a LIFO data structure, while a queue is a FIFO data structure. Both stacks and queues support basic operations such as push/enqueue, pop/dequeue, peek, and isEmpty. Stacks and queues can be implemented using arrays or linked lists, depending on the requirements of the application.
+
+## Contributors
+This project was created by:
+
+- [Solomon Kassa](https://github.com/Solomonkassa)
+- [Nathan Hailu](https://github.com/)
+
