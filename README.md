@@ -2,7 +2,7 @@
 
 ## Overview
 
-In computer science, stack and queue are two fundamental data structures used for managing collections of elements. A stack is a LIFO (Last In First Out) data structure, which means that the last element added to the stack is the first element to be removed. On the other hand, a queue is a FIFO (First In First Out) data structure, which means that the first element added to the queue is the first element to be removed.
+In computer science, stacks and queues are two fundamental data structures used for managing collections of elements. A stack is a LIFO (Last In First Out) data structure, which means that the last element added to the stack is the first element to be removed. On the other hand, a queue is a FIFO (First In First Out) data structure, which means that the first element added to the queue is the first element to be removed.
 
 Stacks and queues can be used for a variety of applications, including parsing or tokenizing, expression evaluation, and graph traversal. In this document, we will provide an overview of stacks and queues, including their basic operations, implementation, and common use cases.
 
