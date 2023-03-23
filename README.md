@@ -31,7 +31,7 @@ A stack supports the following basic operations:
 
 ## A queue supports the following basic operations:
 
-    *enqueue(item): Adds an element to the back of the queue.
+    *enqueue(item): Adds an element to the back of or from rear of the queue.
     *dequeue(): Removes and returns the element at the front of the queue.
     *peek(): Returns the element at the front of the queue without removing it.
     *isEmpty(): Returns a boolean indicating whether the queue is empty.
