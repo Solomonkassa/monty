@@ -7,6 +7,7 @@ vars var;
  * @ac: Number of arguments
  * @av: Pointer containing arguments
  * Return: 0 Success, 1 Failed
+ * Description - Stack and queue are a type of linear data structure 
  */
 int main(int ac, char **av)
 {
