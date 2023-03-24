@@ -3,7 +3,6 @@
  * pall - Print list
  * @stack: Double linked list
  * @line_number: File line execution
- * Description - pasting all line_numbers to stack pointer
  */
 void pall(stack_t **stack, unsigned int line_number)
 {
