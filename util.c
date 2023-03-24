@@ -1,3 +1,4 @@
+
 #include "monty.h"
 
 /**
@@ -122,4 +123,3 @@ int _isdigit(char *string)
 	}
 	return (0);
 }
-/* previous functions*/
