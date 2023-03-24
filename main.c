@@ -1,13 +1,13 @@
+
 #include "monty.h"
 
 vars var;
 
 /**
  * main - Start LIFO, FILO program
- * @ac: Number of argument
+ * @ac: Number of arguments
  * @av: Pointer containing arguments
  * Return: 0 Success, 1 Failed
- * Description - Stack and queue are a type of linear data structure 
  */
 int main(int ac, char **av)
 {
